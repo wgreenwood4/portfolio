@@ -13,22 +13,22 @@ This tool reads a user-provided mathematical function in terms of $x$ and calcul
 ## Installation
 1. Clone repository
 ```bash
-> git clone https://github.com/wgreenwood4/portfolio.git
-> cd taylor-series-visualizer
+git clone https://github.com/wgreenwood4/portfolio.git
+cd taylor-series-visualizer
 ```
 2. Install dependencies
 ```bash
-> pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 3. Run script
 ```bash
-> python taylor-series-visualizer.py
+python taylor-series-visualizer.py
 ```
 
 ## Usage
 Simply run the script to be prompted to enter a function. Here is an example of how to visualize the Taylor Series for $e^x$.
 ```bash
-> python .\taylor-series-visualizer.py
+python .\taylor-series-visualizer.py
 Enter a mathematical function in terms of x: e^x
 ```
 From here, the tool will launch, and the user can use the slider to visualize the construction of the Taylor Series.

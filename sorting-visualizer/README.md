@@ -22,29 +22,29 @@ Visualizations are made using vertical bars of varying heights. Incremental step
 ## Installation
 1. Clone repository
 ```bash
-> git clone https://github.com/wgreenwood4/portfolio.git
-> cd sorting-visualizer
+git clone https://github.com/wgreenwood4/portfolio.git
+cd sorting-visualizer
 ```
 2. Install dependencies
 ```bash
-> pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 3. Run script
 ```bash
-> python sorting-visualizer.py [algorithm]
+python sorting-visualizer.py [algorithm]
 ```
 
 ## Usage
 Upon running the script with no command line arguments, the following is the expected output:
 ```bash
-> python sorting-visualizer.py
+python sorting-visualizer.py
 Select one sorting algorithm from:
   bubble      insertion   selection   shell     
   merge       quick       heap
 ```
 If bubble sort is the desired sorting algorithm, the command line argument is used like so:
 ```bash
-> python sorting-visualizer.py bubble
+python sorting-visualizer.py bubble
 ```
 From here, the visualization tool will launch, and the user can:
 * Click 'play' to begin the animation with current settings
