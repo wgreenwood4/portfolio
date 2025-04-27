@@ -7,33 +7,27 @@ I am currently teaching myself Python and exercising my skills by focusing on pr
 
 ## Projects
 
-### [Custom Shell](https://github.com/wgreenwood4/portfolio/tree/main/custom-shell) - Supports resource limits, internal and external commands, environment variable expansion, file redirection. This project uses a vector library created by my professor, available in a public repository, and uses Linux systems programming techniques. Developed in C for COSC 360: Systems Programming.
+### [Graph Library](https://github.com/wgreenwood4/portfolio/tree/main/graph-library) *(Python, Matplotlib, NumPy)*
+* Custom graph library supporting various representations (adjacency list, adjacency matrix, and edge list) for both undirected/directed and unweighted/weighted graphs
+* Features and algorithms include:
+    * Traversals: Breadth-first and Depth-first search
+    * Pathfinding: Dijkstra’s Algorithm, Bellman-Ford Algorithm, Floyd-Warshall Algorithm
+    * Minimum spanning trees: Kruskal’s Algorithm and Prim’s Algorithm
+    * Graph analysis: component counting, cycle detection, Eulerian graph detection
+    * Graph generation for complete, complete-bipartite, and cycle graphs for an arbitrary order n
+    * Basic visualization tools to display graphs using matplotlib
 
-### [Sorting Visualizer](https://github.com/wgreenwood4/portfolio/tree/main/sorting-visualizer) - Visualization for bubble, insertion, selection, shell, merge, quick, and heap sort. Created using Python and the Matplotlib library.
+### [Sorting Visualizer](https://github.com/wgreenwood4/portfolio/tree/main/sorting-visualizer) *(Python, Matplotlib)*
+* Interactive tool to visualize sorting algorithms, including bubble, insertion, selection, shell, merge, quick, and heap sort
 
-### [Taylor Series Visualizer](https://github.com/wgreenwood4/portfolio/tree/main/taylor-series-visualizer) - Visualization that incrementally graphs a user-provided function through its 10th degree Taylor polynomial. Created using Python and matplotlib, NumPy, SymPy libraries.
+### [Taylor Series Visualizer](https://github.com/wgreenwood4/portfolio/tree/main/taylor-series-visualizer) *(Python, Matplotlib, NumPy, SymPy)*
+* Tool to dynamically graph functions using Taylor polynomial approximations up to the 10th degree
 
-### Graph Isomorphism Detector (coming soon) - Designed to detect isomorphisms between two graphs using a custom-built graph library in Python.
-
-
-## Technologies Used
-- **C**
-    - Used in: Custom Shell
-- **Python**
-    - Used in: Sorting Visualizer, Taylor Series Visualizer
-# 
-- **Linux Systems Programming**
-    - Used in: Custom Shell
-- **Custom C Vector Library**: Created by my COSC 360 professor, Dr. Marz, to handle dynamic arrays and is located in a public repository.
-    - Used in: Custom Shell
-- **Matplotlib**: Primary data visualization tool.
-    - Used in: Sorting Visualizer, Taylor Series Visualizer
-- **NumPy**: Used for numerical operations.
-    - Used in: Taylor Series Visualizer
-- **SymPy**: Used for symbolic representation and differentiation.
-    - Used in: Taylor Series Visualizer
-- **LaTeX**: Used for rendering mathematical expressions and equations.
-    - Used in: Taylor Series Visualizer
+### [Custom Shell](https://github.com/wgreenwood4/portfolio/tree/main/custom-shell) *(C)*
+* Assignment for COSC 360- Systems Programming (University of Tennessee)
+    * Was built off a professor's custom C vector library
+    * Future goals include creating my own library for this project to run off of
+* Unix-like shell supporting resource limits, internal/external commands, environment variable expansion, and file redirection
 
 
 ## Contact Information
