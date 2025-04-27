@@ -19,7 +19,7 @@
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/graphlib.git
+git clone https://github.com/wgreenwood4/portfolio.git
 cd graph-library
 pip install -r requirements.txt
 ```
