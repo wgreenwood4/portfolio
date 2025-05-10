@@ -1,13 +1,8 @@
 # William Greenwood's Portfolio
 
-Welcome to my project portfolio! I am a third year computer science student at the University of Tennessee, Knoxville.
+## *This is an old repository. Projects have been moved to individual repos (linked below) and are no longer updated in this portfolio.*
 
-I am currently teaching myself Python and exercising my skills by focusing on projects in this language specifically. Some other projects here might be from previous lab classes programmed in C and C++.
-
-
-## Projects
-
-### [Graph Library](https://github.com/wgreenwood4/portfolio/tree/main/graph-library) *(Python, Matplotlib, NumPy)*
+### [Graph Library](https://github.com/wgreenwood4/graph-library) *(Python, Matplotlib, NumPy)*
 * Custom graph library supporting various representations (adjacency list, adjacency matrix, and edge list) for both undirected/directed and unweighted/weighted graphs
 * Features and algorithms include:
     * Traversals: Breadth-first and Depth-first search
@@ -17,10 +12,10 @@ I am currently teaching myself Python and exercising my skills by focusing on pr
     * Graph generation for complete, complete-bipartite, and cycle graphs for an arbitrary order n
     * Basic visualization tools to display graphs using matplotlib
 
-### [Sorting Visualizer](https://github.com/wgreenwood4/portfolio/tree/main/sorting-visualizer) *(Python, Matplotlib)*
+### [Sorting Visualizer](https://github.com/wgreenwood4/sorting-visualizer) *(Python, Matplotlib)*
 * Interactive tool to visualize sorting algorithms, including bubble, insertion, selection, shell, merge, quick, and heap sort
 
-### [Taylor Series Visualizer](https://github.com/wgreenwood4/portfolio/tree/main/taylor-series-visualizer) *(Python, Matplotlib, NumPy, SymPy)*
+### [Taylor Series Visualizer](https://github.com/wgreenwood4/taylor-series-visualizer) *(Python, Matplotlib, NumPy, SymPy)*
 * Tool to dynamically graph functions using Taylor polynomial approximations up to the 10th degree
 
 ### [Custom Shell](https://github.com/wgreenwood4/portfolio/tree/main/custom-shell) *(C)*
